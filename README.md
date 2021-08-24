@@ -1,2 +1,2 @@
 # Banker-Roulette
-Randomly pick a person who should pay the bill for today
+Randomly pick a person who should pay for the meal today
